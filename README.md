@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorcjh
-- 👀 I’m interested in learn
+- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning cibersegurity
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me jorcjh
